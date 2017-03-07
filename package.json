@@ -1,0 +1,20 @@
+{
+  "name": "co-md5",
+  "version": "1.0.0",
+  "description": "co based md5",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "co",
+    "md5"
+  ],
+  "author": "moepus",
+  "license": "MIT"
+}
